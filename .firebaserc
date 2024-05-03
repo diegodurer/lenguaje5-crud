@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "lenguaje-5-2024": {
+      "hosting": {
+        "app": [
+          "lenguaje-5-2024"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "lenguaje-5-2024"
+  }
+}
